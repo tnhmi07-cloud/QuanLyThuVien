@@ -9,7 +9,7 @@ public class BTT2 {
         String hoTen = sc.nextLine();
 
         System.out.println("Ho va ten cua ban la: " + hoTen);
-
+        System.out.println("Chao mung ban den voi chuong trinh Java!");
         sc.close();
     }
 }
