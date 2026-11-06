@@ -10,6 +10,7 @@ public class BTT2 {
 
         System.out.println("Ho va ten cua ban la: " + hoTen);
         System.out.println("Chao mung ban den voi chuong trinh Java!");
+        System.out.println("Chuong trinh quan ly thu vien.");
         sc.close();
     }
 }
